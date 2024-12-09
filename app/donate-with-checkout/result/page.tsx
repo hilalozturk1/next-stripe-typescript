@@ -1,5 +1,6 @@
 import type { Stripe } from "stripe";
 
+import { JSX } from "react";
 import PrintObject from "@/components/PrintObject";
 import { stripe } from "@/lib/stripe";
 
